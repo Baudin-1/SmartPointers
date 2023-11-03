@@ -56,3 +56,8 @@ public:
 private:
 	T* pointer;
 };
+
+int main()
+{
+	return 0;
+}
