@@ -56,3 +56,8 @@ private:
 	T* pointer;
 	size_t* count;
 };
+
+int main()
+{
+	return 0;
+}
